@@ -4,7 +4,8 @@
   "description": "homework class and inheritance",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "lint": "eslint . --fix"
   },
   "repository": {
     "type": "git",
